@@ -25,7 +25,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.netease.vopenHD2019</string>
+<string>com.netease.videoHD2019</string>
 <key>bundle-version</key>
 <string>11.0</string>
 <key>kind</key>
@@ -33,7 +33,7 @@
 <key>subtitle</key>
 <string>ci</string>
 <key>title</key>
-<string>网易公开课SDK</string>
+<string>公开课SDK</string>
 </dict>
 </dict>
 </array>
